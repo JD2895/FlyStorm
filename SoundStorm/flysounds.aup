@@ -1,0 +1,94 @@
+<?xml version="1.0" standalone="no" ?>
+<!DOCTYPE project PUBLIC "-//audacityproject-1.3.0//DTD//EN" "http://audacity.sourceforge.net/xml/audacityproject-1.3.0.dtd" >
+<project xmlns="http://audacity.sourceforge.net/xml/" projname="flysounds_data" version="1.3.0" audacityversion="2.1.2" sel0="1.8505324134" sel1="1.8505324134" vpos="0" h="0.0000000000" zoom="269.1117412520" rate="48000.0" snapto="off" selectionformat="hh:mm:ss + milliseconds" frequencyformat="Hz" bandwidthformat="octaves">
+	<tags>
+		<tag name="ALBUM" value="http://www.Sounddogs.com"/>
+		<tag name="TITLE" value="xrÌd Effects - Insects - Flies - Single Fly - CU - Irate Buzzing."/>
+		<tag name="TRACKNUMBER" value="0"/>
+		<tag name="COMMENTS" value="Royalty Free Sound Effects - Sounddogs.com"/>
+		<tag name="Copyright message" value="(c) 2010 Sounddogs.com, All Rights Reserved"/>
+		<tag name="ARTIST" value="Download Sound Effects - SoundDogs - SoundStorm Library"/>
+		<tag name="YEAR" value="2004"/>
+		<tag name="GENRE" value="SFX - Insects; Flies Flys"/>
+	</tags>
+	<wavetrack name="A1fast" channel="2" linked="0" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="48000" gain="1.0" pan="0.0">
+		<waveclip offset="0.02602083">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="8665">
+				<waveblock start="0">
+					<simpleblockfile filename="e0000892.au" len="8665" min="-0.708976" max="0.708121" rms="0.09615"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="A2fast" channel="2" linked="0" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="48000" gain="1.0" pan="0.0">
+		<waveclip offset="0.29727083">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="10345">
+				<waveblock start="0">
+					<simpleblockfile filename="e0000143.au" len="10345" min="-0.477095" max="0.478508" rms="0.08542"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="B1fast" channel="2" linked="0" mute="0" solo="0" height="150" minimized="0" isSelected="1" rate="48000" gain="1.0" pan="0.0">
+		<waveclip offset="0.56477083">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="9367">
+				<waveblock start="0">
+					<simpleblockfile filename="e0000a97.au" len="9367" min="-0.708672" max="0.70803" rms="0.091956"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="B2fast" channel="2" linked="0" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="48000" gain="1.0" pan="0.0">
+		<waveclip offset="0.78591667">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="11062">
+				<waveblock start="0">
+					<simpleblockfile filename="e00003ee.au" len="11062" min="-0.477655" max="0.478895" rms="0.085895"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="D1fast" channel="2" linked="0" mute="0" solo="0" height="150" minimized="1" isSelected="0" rate="48000" gain="1.0" pan="0.0">
+		<waveclip offset="1.04795833">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="8409">
+				<waveblock start="0">
+					<simpleblockfile filename="e00006ba.au" len="8409" min="-0.934041" max="0.999987" rms="0.072452"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="D2fast" channel="2" linked="0" mute="0" solo="0" height="150" minimized="1" isSelected="0" rate="48000" gain="1.0" pan="0.0">
+		<waveclip offset="1.24668750">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="9914">
+				<waveblock start="0">
+					<simpleblockfile filename="e00008c7.au" len="9914" min="-0.790473" max="0.998955" rms="0.098984"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="E1fast" channel="2" linked="0" mute="0" solo="0" height="150" minimized="1" isSelected="0" rate="48000" gain="1.0" pan="0.0">
+		<waveclip offset="1.52352083">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="3752">
+				<waveblock start="0">
+					<simpleblockfile filename="e0000461.au" len="3752" min="-0.709174" max="0.708212" rms="0.056429"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="E2fast" channel="2" linked="0" mute="0" solo="0" height="150" minimized="1" isSelected="0" rate="48000" gain="1.0" pan="0.0">
+		<waveclip offset="1.79479167">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="5878">
+				<waveblock start="0">
+					<simpleblockfile filename="e0000a08.au" len="5878" min="-0.477283" max="0.477864" rms="0.073084"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+</project>

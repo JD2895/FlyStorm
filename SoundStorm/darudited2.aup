@@ -1,0 +1,222 @@
+<?xml version="1.0" standalone="no" ?>
+<!DOCTYPE project PUBLIC "-//audacityproject-1.3.0//DTD//EN" "http://audacity.sourceforge.net/xml/audacityproject-1.3.0.dtd" >
+<project xmlns="http://audacity.sourceforge.net/xml/" projname="darudited2_data" version="1.3.0" audacityversion="2.1.2" sel0="2.8229478458" sel1="3.3511111111" vpos="160" h="0.0000000000" zoom="116.1951540682" rate="48000.0" snapto="off" selectionformat="hh:mm:ss + milliseconds" frequencyformat="Hz" bandwidthformat="octaves">
+	<tags>
+		<tag name="ALBUM" value="http://www.Sounddogs.com"/>
+		<tag name="TITLE" value="xrÌd Effects - Insects - Flies - Single Fly - CU - Irate Buzzing."/>
+		<tag name="TRACKNUMBER" value="0"/>
+		<tag name="COMMENTS" value="Royalty Free Sound Effects - Sounddogs.com"/>
+		<tag name="Copyright message" value="(c) 2010 Sounddogs.com, All Rights Reserved"/>
+		<tag name="ARTIST" value="Download Sound Effects - SoundDogs - SoundStorm Library"/>
+		<tag name="YEAR" value="2004"/>
+		<tag name="GENRE" value="SFX - Insects; Flies Flys"/>
+	</tags>
+	<wavetrack name="Darude - Sandstorm (Original Mix) (320  kbps)" channel="0" linked="1" mute="1" solo="0" height="150" minimized="0" isSelected="0" rate="48000" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="5148855">
+				<waveblock start="0">
+					<simpleblockfile filename="e00019d4.au" len="140987" min="-0.011508" max="0.010666" rms="0.001841"/>
+				</waveblock>
+				<waveblock start="140987">
+					<simpleblockfile filename="e0001581.au" len="140987" min="-0.046809" max="0.046569" rms="0.005912"/>
+				</waveblock>
+				<waveblock start="281974">
+					<simpleblockfile filename="e00005aa.au" len="262144" min="-0.15879" max="0.174816" rms="0.025467"/>
+				</waveblock>
+				<waveblock start="544118">
+					<simpleblockfile filename="e00013a6.au" len="175112" min="-0.324935" max="0.312831" rms="0.056034"/>
+				</waveblock>
+				<waveblock start="719230">
+					<simpleblockfile filename="e0001c0b.au" len="172139" min="-0.65196" max="0.555797" rms="0.085976"/>
+				</waveblock>
+				<waveblock start="891369">
+					<simpleblockfile filename="e0001152.au" len="166580" min="-0.589266" max="0.607448" rms="0.084693"/>
+				</waveblock>
+				<waveblock start="1057949">
+					<simpleblockfile filename="e00019f4.au" len="191693" min="-0.588164" max="0.456396" rms="0.084625"/>
+				</waveblock>
+				<waveblock start="1249642">
+					<simpleblockfile filename="e0001291.au" len="132302" min="-0.63219" max="0.639075" rms="0.097819"/>
+				</waveblock>
+				<waveblock start="1381944">
+					<simpleblockfile filename="e00017ae.au" len="154029" min="-0.660136" max="0.635253" rms="0.109159"/>
+				</waveblock>
+				<waveblock start="1535973">
+					<simpleblockfile filename="e0000ef9.au" len="262144" min="-0.826737" max="0.864379" rms="0.149574"/>
+				</waveblock>
+				<waveblock start="1798117">
+					<simpleblockfile filename="e00002d9.au" len="262144" min="-0.911912" max="0.967599" rms="0.189211"/>
+				</waveblock>
+				<waveblock start="2060261">
+					<simpleblockfile filename="e00006e6.au" len="262144" min="-1.100365" max="1.068039" rms="0.252371"/>
+				</waveblock>
+				<waveblock start="2322405">
+					<simpleblockfile filename="e000004d.au" len="262144" min="-0.969455" max="0.931378" rms="0.241568"/>
+				</waveblock>
+				<waveblock start="2584549">
+					<simpleblockfile filename="e00009cb.au" len="262144" min="-0.955704" max="1.070596" rms="0.240612"/>
+				</waveblock>
+				<waveblock start="2846693">
+					<simpleblockfile filename="e0000cf6.au" len="262144" min="-0.98058" max="1.023207" rms="0.252988"/>
+				</waveblock>
+				<waveblock start="3108837">
+					<simpleblockfile filename="e0000e8c.au" len="262144" min="-0.971799" max="0.990134" rms="0.261056"/>
+				</waveblock>
+				<waveblock start="3370981">
+					<simpleblockfile filename="e00008e2.au" len="262144" min="-1.074039" max="1.009531" rms="0.264134"/>
+				</waveblock>
+				<waveblock start="3633125">
+					<simpleblockfile filename="e0000358.au" len="262144" min="-1.031437" max="1.055703" rms="0.268677"/>
+				</waveblock>
+				<waveblock start="3895269">
+					<simpleblockfile filename="e0000181.au" len="262144" min="-1.007122" max="0.997054" rms="0.266015"/>
+				</waveblock>
+				<waveblock start="4157413">
+					<simpleblockfile filename="e00002c9.au" len="262144" min="-0.989929" max="0.976811" rms="0.258913"/>
+				</waveblock>
+				<waveblock start="4419557">
+					<simpleblockfile filename="e0000f7c.au" len="262144" min="-1.138346" max="1.128207" rms="0.271079"/>
+				</waveblock>
+				<waveblock start="4681701">
+					<simpleblockfile filename="e0000edb.au" len="262144" min="-1.123144" max="1.126128" rms="0.292969"/>
+				</waveblock>
+				<waveblock start="4943845">
+					<simpleblockfile filename="e0001cb6.au" len="205010" min="-0.465333" max="0.535787" rms="0.05062"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="Darude - Sandstorm (Original Mix) (320  kbps)" channel="1" linked="0" mute="1" solo="0" height="150" minimized="0" isSelected="0" rate="48000" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="5148855">
+				<waveblock start="0">
+					<simpleblockfile filename="e0001945.au" len="140987" min="-0.014447" max="0.013664" rms="0.002487"/>
+				</waveblock>
+				<waveblock start="140987">
+					<simpleblockfile filename="e0001347.au" len="140987" min="-0.051759" max="0.044286" rms="0.006516"/>
+				</waveblock>
+				<waveblock start="281974">
+					<simpleblockfile filename="e0000f94.au" len="262144" min="-0.171377" max="0.175317" rms="0.02668"/>
+				</waveblock>
+				<waveblock start="544118">
+					<simpleblockfile filename="e00018eb.au" len="175112" min="-0.370814" max="0.330632" rms="0.057632"/>
+				</waveblock>
+				<waveblock start="719230">
+					<simpleblockfile filename="e0001e3c.au" len="172139" min="-0.623104" max="0.518193" rms="0.091508"/>
+				</waveblock>
+				<waveblock start="891369">
+					<simpleblockfile filename="e0001a2b.au" len="166580" min="-0.779396" max="0.838226" rms="0.103347"/>
+				</waveblock>
+				<waveblock start="1057949">
+					<simpleblockfile filename="e00012d3.au" len="191693" min="-0.608289" max="0.499979" rms="0.08887"/>
+				</waveblock>
+				<waveblock start="1249642">
+					<simpleblockfile filename="e0001146.au" len="132302" min="-0.58748" max="0.663747" rms="0.0931"/>
+				</waveblock>
+				<waveblock start="1381944">
+					<simpleblockfile filename="e00018e4.au" len="154029" min="-0.650954" max="0.614165" rms="0.110008"/>
+				</waveblock>
+				<waveblock start="1535973">
+					<simpleblockfile filename="e0000b47.au" len="262144" min="-0.750621" max="0.738173" rms="0.140806"/>
+				</waveblock>
+				<waveblock start="1798117">
+					<simpleblockfile filename="e0000e43.au" len="262144" min="-0.819148" max="0.787287" rms="0.173274"/>
+				</waveblock>
+				<waveblock start="2060261">
+					<simpleblockfile filename="e00000a3.au" len="262144" min="-1.032859" max="0.947657" rms="0.237163"/>
+				</waveblock>
+				<waveblock start="2322405">
+					<simpleblockfile filename="e0000dda.au" len="262144" min="-0.980439" max="0.95771" rms="0.259259"/>
+				</waveblock>
+				<waveblock start="2584549">
+					<simpleblockfile filename="e0000818.au" len="262144" min="-0.995741" max="1.027846" rms="0.257963"/>
+				</waveblock>
+				<waveblock start="2846693">
+					<simpleblockfile filename="e0000513.au" len="262144" min="-1.015968" max="1.11296" rms="0.270229"/>
+				</waveblock>
+				<waveblock start="3108837">
+					<simpleblockfile filename="e00002e7.au" len="262144" min="-1.030042" max="1.067029" rms="0.279004"/>
+				</waveblock>
+				<waveblock start="3370981">
+					<simpleblockfile filename="e00005af.au" len="262144" min="-1.043758" max="1.060377" rms="0.285165"/>
+				</waveblock>
+				<waveblock start="3633125">
+					<simpleblockfile filename="e0000545.au" len="262144" min="-1.050163" max="1.085101" rms="0.289094"/>
+				</waveblock>
+				<waveblock start="3895269">
+					<simpleblockfile filename="e0000690.au" len="262144" min="-1.00445" max="1.061273" rms="0.282056"/>
+				</waveblock>
+				<waveblock start="4157413">
+					<simpleblockfile filename="e00009de.au" len="262144" min="-1.165248" max="1.08455" rms="0.281678"/>
+				</waveblock>
+				<waveblock start="4419557">
+					<simpleblockfile filename="e0000bb5.au" len="262144" min="-1.081188" max="1.066764" rms="0.285976"/>
+				</waveblock>
+				<waveblock start="4681701">
+					<simpleblockfile filename="e00008ce.au" len="262144" min="-1.034236" max="1.090454" rms="0.282741"/>
+				</waveblock>
+				<waveblock start="4943845">
+					<simpleblockfile filename="e0001ca9.au" len="205010" min="-0.496547" max="0.531007" rms="0.053765"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="Darude - Sandstorm (Original Mix) (320  kbps)" channel="0" linked="1" mute="1" solo="0" height="147" minimized="0" isSelected="0" rate="48000" gain="0.1" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="241250">
+				<waveblock start="0">
+					<simpleblockfile filename="e0000080.au" len="241250" min="-0.943438" max="0.883537" rms="0.224047"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="Darude - Sandstorm (Original Mix) (320  kbps)" channel="1" linked="0" mute="1" solo="0" height="151" minimized="0" isSelected="0" rate="48000" gain="0.1" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="241250">
+				<waveblock start="0">
+					<simpleblockfile filename="e0000614.au" len="241250" min="-0.943644" max="0.863114" rms="0.241088"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="381757_SOUNDDOGS__in" channel="2" linked="0" mute="0" solo="0" height="150" minimized="0" isSelected="1" rate="11025" gain="0.281838" pan="0.0">
+		<waveclip offset="0.33569161">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="10808">
+				<waveblock start="0">
+					<simpleblockfile filename="e0000ae7.au" len="10808" min="-0.524549" max="0.678428" rms="0.039904"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+		<waveclip offset="2.82294785">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="5823">
+				<waveblock start="0">
+					<simpleblockfile filename="e00002a3.au" len="5823" min="-0.40544" max="0.513238" rms="0.026625"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="381759_SOUNDDOGS__in" channel="2" linked="0" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="11025" gain="0.398107" pan="0.0">
+		<waveclip offset="1.61360544">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="6750">
+				<waveblock start="0">
+					<simpleblockfile filename="e00001a1.au" len="6750" min="-0.623297" max="0.626142" rms="0.03571"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+		<waveclip offset="3.69315193">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="3010">
+				<waveblock start="0">
+					<simpleblockfile filename="e0000668.au" len="3010" min="-0.468951" max="0.557102" rms="0.022242"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+</project>
